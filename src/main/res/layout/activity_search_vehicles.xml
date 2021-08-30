@@ -18,6 +18,7 @@
         android:inputType="textPersonName"
         android:background="@color/cardview_light_background"
         android:ems="10"
+        android:paddingStart="10sp"
         android:id="@+id/edSearch"
         android:hint="Search for the name" />
 
