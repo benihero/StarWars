@@ -17,6 +17,7 @@
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
+        android:paddingStart="10sp"
         android:background="@color/cardview_light_background"
         android:id="@+id/edSearch"
         android:hint="Search for the character" />
